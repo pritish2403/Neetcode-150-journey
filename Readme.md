@@ -13,7 +13,7 @@ Each day, I solve 1-2 problems and organize them by day in folders with:
 | Day | Problems |
 |-----|----------|
 | ✅ Day 1 | Contains Duplicate, Valid Anagram |
-| 🔜 Day 2 | Two Sums, Group Anagrams |
+| ✅ Day 2 | Two Sums, Group Anagrams |
 | 🔜 Day 3 | ...coming soon |
 
 ---
