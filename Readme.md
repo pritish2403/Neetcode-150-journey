@@ -14,7 +14,8 @@ Each day, I solve 1-2 problems and organize them by day in folders with:
 |-----|----------|
 | ✅ Day 1 | Contains Duplicate, Valid Anagram |
 | ✅ Day 2 | Two Sums, Group Anagrams |
-| 🔜 Day 3 | ...coming soon |
+| ✅ Day 3 | Top K Frequent Elements, Encode and Decode String |
+| 🔜 Day 4 | ...coming soon |
 
 ---
 
