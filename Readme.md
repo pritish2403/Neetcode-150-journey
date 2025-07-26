@@ -16,7 +16,8 @@ Each day, I solve 1-2 problems and organize them by day in folders with:
 | ✅ Day 2 | Two Sums, Group Anagrams |
 | ✅ Day 3 | Top K Frequent Elements, Encode and Decode String |
 | ✅ Day 4 | Products of Array Except Self, Valid Sudoku |
-| 🔜 Day 5 | ...coming soon |
+| ✅ Day 5 | Longest Consecutive Sequence, Valid Palindrome |
+| 🔜 Day 6 | ...coming soon |
 
 ---
 
