@@ -17,7 +17,8 @@ Each day, I solve 1-2 problems and organize them by day in folders with:
 | ✅ Day 3 | Top K Frequent Elements, Encode and Decode String |
 | ✅ Day 4 | Products of Array Except Self, Valid Sudoku |
 | ✅ Day 5 | Longest Consecutive Sequence, Valid Palindrome |
-| 🔜 Day 6 | ...coming soon |
+| ✅ Day 6 | Two Sum II Input Array Is Sorted, 3Sum, Container With Most Water, Trapping Rainwater |
+| 🔜 Day 7 | ...coming soon |
 
 ---
 
