@@ -12,16 +12,16 @@ Each day, I solve 1-2 problems and organize them by day in folders with:
 
 | Day | Problems |
 |-----|----------|
-| ✅ Day 1 | Contains Duplicate, Valid Anagram |
-| ✅ Day 2 | Two Sums, Group Anagrams |
-| ✅ Day 3 | Top K Frequent Elements, Encode and Decode String |
-| ✅ Day 4 | Products of Array Except Self, Valid Sudoku |
-| ✅ Day 5 | Longest Consecutive Sequence, Valid Palindrome |
-| ✅ Day 6 | Two Sum II Input Array Is Sorted, 3Sum, Container With Most Water, Trapping Rainwater |
-| ✅ Day 7 | Valid Parentheses, Minimum Stack, Evaluate Reverse Polish Notation|
-| ✅ Day 8 | Generate Parentheses, Daily Temperatures |
-| 🔜 Day 9 | ...coming soon |
-
+| ✅ Day 01 | Contains Duplicate, Valid Anagram |
+| ✅ Day 02 | Two Sums, Group Anagrams |
+| ✅ Day 03 | Top K Frequent Elements, Encode and Decode String |
+| ✅ Day 04 | Products of Array Except Self, Valid Sudoku |
+| ✅ Day 05 | Longest Consecutive Sequence, Valid Palindrome |
+| ✅ Day 06 | Two Sum II Input Array Is Sorted, 3Sum, Container With Most Water, Trapping Rainwater |
+| ✅ Day 07 | Valid Parentheses, Minimum Stack, Evaluate Reverse Polish Notation|
+| ✅ Day 08 | Generate Parentheses, Daily Temperatures |
+| ✅ Day 09 | Car Fleet, Largest Rectangle In Histogram |
+| 🔜 Day 10 | ...coming soon |
 ---
 
 ## 🛠 Tech Stack
